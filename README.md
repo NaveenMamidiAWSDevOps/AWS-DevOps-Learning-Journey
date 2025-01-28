@@ -15,7 +15,7 @@
 - 📚 Preparing for **AWS & DevOps certifications** to build a strong foundation.  
 - 💻 Exploring **Terraform, Docker, Kubernetes, and CI/CD pipelines**.  
 - 🔍 Looking for **internship opportunities in Cloud & DevOps**.  
-- 📫 Reach me at **[naveenmamidinm@gmail.com](mailto:naveenmamidi6798@gmail.com)**.  
+- 📫 Reach me at **[naveenmamidi6798@gmail.com](mailto:naveenmamidi6798@gmail.com)**.  
 
 ---
 
