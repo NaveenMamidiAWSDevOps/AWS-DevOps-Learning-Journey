@@ -5,7 +5,7 @@
 🚀 **Aspiring AWS DevOps Engineer | Beginner & Lifelong Learner**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/naveen-mamidi-083414342)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:naveenmamidinm@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:naveenmamidi6798@gmail.com)  
 
 ---
 
@@ -15,7 +15,7 @@
 - 📚 Preparing for **AWS & DevOps certifications** to build a strong foundation.  
 - 💻 Exploring **Terraform, Docker, Kubernetes, and CI/CD pipelines**.  
 - 🔍 Looking for **internship opportunities in Cloud & DevOps**.  
-- 📫 Reach me at **[naveenmamidinm@gmail.com](mailto:naveenmamidinm@gmail.com)**.  
+- 📫 Reach me at **[naveenmamidinm@gmail.com](mailto:naveenmamidi6798@gmail.com)**.  
 
 ---
 
