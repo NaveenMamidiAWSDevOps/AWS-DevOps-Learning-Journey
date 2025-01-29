@@ -1,42 +1,15 @@
+# 🚀 200 Days AWS DevOps Roadmap
 
+Welcome to my **200 Days AWS DevOps Learning Journey!** 🎯 This repository is a structured roadmap designed to help me transition from a **beginner to an AWS DevOps Engineer** over the next **7 months**. My goal is to build strong **AWS Cloud, DevOps, and automation skills**, preparing for **real-world projects, certifications, and job opportunities** in AWS DevOps roles.
 
-# 👋 Hi, I’m **Naveen Mamidi** (@NaveenMamidiAwsDevOps)  
+This roadmap covers:
+✅ **AWS Fundamentals** – Core AWS services, architecture, networking  
+✅ **DevOps Principles** – CI/CD, automation, containerization, infrastructure as code  
+✅ **Hands-on Projects** – Implementing DevOps pipelines, cloud deployments, monitoring  
+✅ **Certifications** – AWS DevOps Engineer, Solutions Architect, and relevant skill badges  
+✅ **Interview Prep** – Real-world scenarios, system design, and problem-solving  
 
-🚀 **Aspiring AWS DevOps Engineer | Beginner & Lifelong Learner**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/naveen-mamidi-083414342)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:naveenmamidi6798@gmail.com)  
-
----
-
-## 🌱 About Me  
-
-- 🎯 Currently learning **AWS, DevOps, and Cloud Technologies**.  
-- 📚 Preparing for **AWS & DevOps certifications** to build a strong foundation.  
-- 💻 Exploring **Terraform, Docker, Kubernetes, and CI/CD pipelines**.  
-- 🔍 Looking for **internship opportunities in Cloud & DevOps**.  
-- 📫 Reach me at **[naveenmamidi6798@gmail.com](mailto:naveenmamidi6798@gmail.com)**.  
+I will be **documenting daily progress**, uploading projects, and sharing insights here. 🚀  
+Join me in this **AWS DevOps journey**! 🌍💡
 
 ---
-
-## 🚀 AWS DevOps Learning Journey  
-
-I’ve started a challenge to learn and master **AWS & DevOps** from scratch.  
-📌 **I will be updating my progress, notes, and projects daily on GitHub.**  
-
----
-
-## 🔧 My Learning Stack  
-
-- ☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes  
-- 🔄 **CI/CD & Automation:** GitHub Actions, Jenkins  
-- 🏗️ **Infrastructure as Code:** Terraform, CloudFormation  
-
----
-
-## 📌 My Progress & Projects  
-
-🔹 **Daily updates & projects will be documented in my repositories.**  
-📌 **Check out my pinned repositories to track my journey!**  
-
-💬 **Let’s connect and grow together in the DevOps world! 🚀**  
