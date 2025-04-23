@@ -137,3 +137,55 @@ sudo groupdel devs
 
 ---
 
+
+##############################################
+# 🛠️ Automating / Scheduling Tasks in Linux #
+##############################################
+
+# --------------------------------------------
+# 1️⃣ cron
+# --------------------------------------------
+# 'cron' is a daemon (background service) that runs scheduled tasks.
+# It reads job schedules from:
+#     - /etc/crontab
+#     - /etc/cron.d/
+#     - /var/spool/cron/
+#     - User crontabs
+
+# --------------------------------------------
+# 2️⃣ crontab
+# --------------------------------------------
+# 'crontab' is the command-line tool to manage cron jobs per user.
+
+# 🔹 List current user's cron jobs
+crontab -l
+
+# 🔹 Edit current user's cron jobs
+crontab -e
+
+# 🔹 Remove current user's cron jobs
+crontab -r
+
+# --------------------------------------------
+# 📅 Crontab Syntax Format
+# --------------------------------------------
+# ┌──────────── Minute        (0 - 59)
+# │ ┌────────── Hour          (0 - 23)
+# │ │ ┌──────── Day of Month  (1 - 31)
+# │ │ │ ┌────── Month         (1 - 12)
+# │ │ │ │ ┌──── Day of Week   (0 - 7) (Sunday = 0 or 7)
+# │ │ │ │ │
+# * * * * *  command-to-execute
+
+# --------------------------------------------
+# ✅ Example Cron Jobs
+# --------------------------------------------
+
+# Run backup script every day at 2 AM
+0 2 * * * /home/user/scripts/backup.sh
+
+# Clear logs every Sunday at midnight
+0 0 * * 0 /home/user/scripts/clear_logs.sh
+
+# Reboot system every day at 3 AM (⚠️ use carefully)
+0 3 * * * /sbin/shutdown -r now
