@@ -1,14 +1,50 @@
-# Remote Access Control #
 
-  => ssh : Secure shell
-  => scp : Secure copy between Servers
+# 🖥️ Linux Admin Cheatsheet
 
-# HardWare Information Commnads #
+## 🔐 Remote Access Control
 
- => free : To find the Amount of free and Used RAM memory in the System.
- => dmidecode -t 17 : it give the RAM Information like Type of RAM (SD RAM , DRAM 0r DDR 2/3, speed manufacture etc) { Only Root User can Perform this command.}
- => vmstat : it givs the virtual memory statics.
+- `ssh` – Secure Shell  
+  Use to log in to another machine securely.
+
+  # bash
+  ssh user@remote_host
 
 
-# Communication Commands #
- => mail : Sends and receives mail
+* `scp` – Secure Copy
+  Securely copy files between local and remote systems.
+
+  #bash
+  scp file.txt user@remote_host:/path/to/destination
+  
+
+
+## 🧠 Hardware Information Commands
+
+* `free` – Show memory usage (RAM).
+
+  # bash
+  free -h
+ 
+
+* `dmidecode -t 17` – Show RAM details: type (DDR2/DDR3/etc), speed, manufacturer, etc.
+  ⚠️ Requires **root** privileges.
+
+  # bash
+  sudo dmidecode -t 17
+  
+
+* `vmstat` – Show virtual memory statistics (processes, memory, I/O, etc.)
+
+  # bash
+  vmstat
+  
+
+## 📬 Communication Commands
+
+* `mail` – Send and receive system emails (server must have mail configured).
+
+  # bash
+  mail user@example.com
+  
+
+
